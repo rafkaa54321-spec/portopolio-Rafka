@@ -118,9 +118,12 @@ footer {
     align-items: center;
 }
 .kontak {
-    text-align: center;
+    text-align: left;
     background-color: #AEC4D4;
     
+}
+.kontak h2,p {
+   text-align: center;
 }
 .data {
     background-color: #AEC4D4;
